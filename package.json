@@ -1,10 +1,12 @@
 {
-	"name": "term-mouse",
-	"version": "0.1.1",
-	"author": "Drew",
-	"main": "./index",
-	"repository": {
-		"type": "git",
-		"url" : "git://github.com/drewyoung1/term-mouse.git"
-	}
+  "name": "term-mouse",
+  "version": "0.2.1",
+  "author": "Drew",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drewyoung1/term-mouse.git"
+  },
+  "devDependencies": {
+    "exit-hook": "^1.1.1"
+  }
 }
